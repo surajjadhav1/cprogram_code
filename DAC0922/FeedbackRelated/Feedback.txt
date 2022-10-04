@@ -1,0 +1,11 @@
+
+https://actsfeedback.cdac.in/feedbackSystem
+
+Open the link in browser and login with your PRN No as username
+ex :190840420001
+pwd will be last 4 digits of PRN NO
+
+Check and fill the feedbacks which are available.
+Refer to PRN.xls for details of your PRN No
+File is kept in your shared folder
+=============================================================
